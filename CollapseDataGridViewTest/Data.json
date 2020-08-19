@@ -1,0 +1,74 @@
+﻿{
+  "ReportKeys": {
+    "Low": {
+      "One": [
+        {
+          "No.": "4.4",
+          "Surface": "Packed Snow",
+          "Start Speed (kph) ": "0",
+          "Throttle": "WOT",
+          "Gear": "start in 1st  then as appropriate",
+          "End Speed (kph) ": "50 kph",
+          "Time to reach end speed(s) (with TCS)": "",
+          "Time to reach end speed(s) (without TCS)": "",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Spec)": "≤ 140%",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Measured)": "",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)": "≤ 0.15",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)(Measured)": "",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_One": "≤ 3 seconds",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_One": "",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_Two": "≤ 2 seconds",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_Two": "",
+          "Trace Name(with TCS)": "",
+          "Trace Name(without TCS)": "",
+          "PASS / FAIL ": "",
+          "Duration": ""
+        },
+        {
+          "No.": "4.5",
+          "Surface": "Ice",
+          "Start Speed (kph) ": "0",
+          "Throttle": "WOT",
+          "Gear": "start in 1st  then as appropriate",
+          "End Speed (kph) ": "40 kph",
+          "Time to reach end speed(s) (with TCS)": "",
+          "Time to reach end speed(s) (without TCS)": "",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Spec)": "≤ 140%",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Measured)": "",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)": "≤ 0.15",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)(Measured)": "",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_One": "≤ 3 seconds",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_One": "",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_Two": "≤ 2 seconds",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_Two": "",
+          "Trace Name(with TCS)": "",
+          "Trace Name(without TCS)": "",
+          "PASS / FAIL ": "",
+          "Duration": ""
+        },
+        {
+          "No.": "4.6",
+          "Surface": "Asphalt/ Ice Split",
+          "Start Speed (kph) ": "0",
+          "Throttle": "WOT",
+          "Gear": "start in 1st  then as appropriate",
+          "End Speed (kph) ": "50 kph",
+          "Time to reach end speed(s) (with TCS)": "",
+          "Time to reach end speed(s) (without TCS)": "N.A",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Spec)": "N.A",
+          "Avg Percent of Drivers Best Effort to reach end speed (TCS on/TCS off) (%)(Measured)": "N.A",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)": "≤ 0.25",
+          "Maximum Peak to Peak Δ acceleration (g)(Spec)(Measured)": "",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_One": "N.A",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_One": "N.A",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Spec)_Two": "N.A",
+          "Time to gain control of Cardan speed (Cardan speed stays below stability threshold) (s)(Measured)_Two": "N.A",
+          "Trace Name(with TCS)": "",
+          "Trace Name(without TCS)": "",
+          "PASS / FAIL ": "",
+          "Duration": ""
+        }
+      ]
+    }
+  }
+}
