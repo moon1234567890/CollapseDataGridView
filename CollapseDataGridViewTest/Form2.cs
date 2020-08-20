@@ -22,7 +22,7 @@ namespace CollapseDataGridViewTest
 
         public void Init()
         {
-            var dataStr = File.ReadAllText(@"C:\test\CollapseDataGridViewTest\CollapseDataGridViewTest\Data.json");
+            var dataStr = File.ReadAllText(System.Environment.CurrentDirectory+@"\Data.json");
             var obj = JObject.Parse(dataStr);
             var reportKeys = (JObject)obj["ReportKeys"];
             var lowObject = (JObject)reportKeys["Low"];
